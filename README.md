@@ -1,2 +1,6 @@
 # Siddhartha-E-Hub
-This is my first project
+install Tomcat Server.
+Right click on the Project Go to run on server.
+open H2 DataBase.
+For any quries,please contact at kodamsiddhartha@gmail.com
+
